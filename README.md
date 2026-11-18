@@ -78,3 +78,4 @@ Legal pages are clearly marked drafts and noindexed. Owner/legal review is a lau
 ## Operations
 
 Read `docs/DEPLOYMENT.md`, `docs/SECURITY.md` and `docs/BACKUP_RECOVERY.md`. CI checks are present but have not been verified on GitHub. The deployment workflow is manual and must use a protected production environment with required reviewers. No live deployment, remote migration, DNS change or verified GitHub push has occurred.
+gbf-proof-oo-q-RThIZxljaK2Fkw6CHtnN0i7e2T-
